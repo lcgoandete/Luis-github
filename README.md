@@ -14,7 +14,6 @@ Atualmente estou fazendo o curso full stack web developer na [Trybe][trybe]
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 <hr>
-[<img align="center" alt="logo-LinkedIn" width="40" src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>][linkedinn]
+<a href="https://www.linkedin.com/in/luis-carlos-goandete-8432721bb" target="_blank"><img align="center" alt="logo-LinkedIn" width="40" src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
 
 [trybe]: http://betrybe.com
-[linkedinn]: https://www.linkedin.com/in/luis-carlos-goandete-8432721bb/
